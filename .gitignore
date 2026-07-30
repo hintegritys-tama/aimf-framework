@@ -1,0 +1,5 @@
+# Office一時ファイル
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
